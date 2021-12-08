@@ -3,6 +3,8 @@
 <p align='center'>
   Hi! :wave: I'm Marco Rocheles!<br/>
   🕹️ I'm a big fan of Final Fantasy and other games!<br/>
+  When i'm not coding i like to read and draw. 🖌️
+
 </p>
 <p align='center'>
   :computer: I'm Java Fullstack Developer from São Paulo - Brazil.
