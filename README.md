@@ -2,12 +2,12 @@
 
 ## Hi! I'm Marco Rocheles!
 
- [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcorocheles)](https://github.com/marcorocheles/github-readme-stats)
+ [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ocean_dark)
 
 :computer: I'm Java Fullstack Developer from São Paulo - Brazil.
 
 :books: I’m currently learning everything and I won't stop! In 2022 I hope I can find a new job. :)
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ocean_dark)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
