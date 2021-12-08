@@ -16,8 +16,8 @@
   <a href="https://www.instagram.com/marcorocheles/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
+<br/>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=marcorocheles&show_icons=true&count_private=true&theme=ocean_dark" width="350"></a>
