@@ -36,10 +36,6 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/marcorocheles/marcorocheles"></a>
-</p>
-
-<p align='center'>
   😎 There are my most used tools:
   <div style="display: inline_block">
     <p align='center'>
@@ -55,6 +51,10 @@
   </p>
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/marcorocheles/marcorocheles"></a>
+</p>    
+    
 </div>
   
   ##
