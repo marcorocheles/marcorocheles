@@ -6,6 +6,7 @@
 <p align='center'>
   :computer: I'm Java Fullstack Developer from São Paulo - Brazil.
 </p>
+<br/>
 
 <p align='center'>
   😊 My social media if you want talk with me:<br/><br/>
