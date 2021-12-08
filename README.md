@@ -2,7 +2,7 @@
 
 <p align='center'>
   Hi! :wave: I'm Marco Rocheles!<br/>
-  🕹️ I'm a greatest fan of Final Fantasy and other games!<br/>
+  🕹️ I'm a big fan of Final Fantasy and other games!<br/>
 </p>
 <p align='center'>
   :computer: I'm Java Fullstack Developer from São Paulo - Brazil.
