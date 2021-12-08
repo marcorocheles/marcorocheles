@@ -24,7 +24,7 @@
 </p>
 
 <p align='center'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcorocheles&exclude_repo=cem_clipnet&layout=compact&theme=radical)](https://github.com/marcorocheles/github-readme-stats)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcorocheles&exclude_repo=cem_clipnet&layout=compact&theme=radical"></a>
 </p>
 
 <br />
