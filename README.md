@@ -24,7 +24,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcorocheles&exclude_repo=cem_clipnet&layout=compact&theme=radical"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcorocheles&exclude_repo=cem_clipnet&layout=compact&theme=ocean_dark"></a>
 </p>
 
 <br />
