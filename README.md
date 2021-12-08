@@ -23,7 +23,7 @@
 </p>
 
 
-![Snake animation](https://github.com/marcorocheles/marcorocheles/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcorocheles/blob/output/github-contribution-grid-snake.svg)
 
 
 
