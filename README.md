@@ -35,6 +35,7 @@
   <img src=https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white />
 </p>
 
+<br/>
 <p align='center'>
   😎 There are my most used tools:
   <div style="display: inline_block">
