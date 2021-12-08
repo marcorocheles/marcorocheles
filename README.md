@@ -3,7 +3,6 @@
 <p align='center'>
   Hi! :wave: I'm Marco Rocheles!
 </p>
-
 <p align='center'>
   :computer: I'm Java Fullstack Developer from São Paulo - Brazil.
 </p>
