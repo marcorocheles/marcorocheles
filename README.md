@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-  😊 My social media if you want talk with me:<br/>
+  😊 My social media if you want talk with me:<br/><br/>
   <a href="https://www.linkedin.com/in/marcorocheles/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
