@@ -2,7 +2,7 @@
 
 ## Hi! I'm Marco Rocheles!
 
- [Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcorocheles&show_icons=true&theme=ocean_dark)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcorocheles&show_icons=true&theme=ocean_dark)
 
 :computer: I'm Java Fullstack Developer from São Paulo - Brazil.
 
