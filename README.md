@@ -1,16 +1,13 @@
-### Hi there 👋
+##Hi! I'm Marco Rocheles!
 
-<!--
-**marcorocheles/marcorocheles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+:computer: I'm Java Fullstack Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:house_with_garden: I’m from Praia Grande, São Paulo - Brazil.
+
+:books: I’m currently learning everything and I won't stop!.
+
+:outbox_tray: 2021/2022 Goals: create new projects and find a new job. :)
+
+<code><img height= "20"src= "	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
