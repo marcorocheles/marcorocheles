@@ -10,4 +10,4 @@
 
 :outbox_tray: 2021/2022 Goals: create new projects and find a new job. :)
 
-<code><img height= "20"src= "	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
+<code><img src= "	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code>
