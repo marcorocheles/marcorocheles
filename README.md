@@ -3,7 +3,7 @@
 <p align='center'>
   Hi! :wave: I'm Marco Rocheles!<br/>
   🕹️ I'm a big fan of Final Fantasy and other games!<br/>
-  When I'm not coding I like to read and draw. 🖌️
+  When I'm not coding I like to read and draw. 🖌️<br/>
 
 </p>
 <p align='center'>
