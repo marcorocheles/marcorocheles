@@ -55,7 +55,7 @@
 
 <br/>
 <p align='center'>
-  Thank you to visit my profile. See ya! 👋<br/>
+  Thank you to visit my profile. See ya! 👋<br/><br/>
   <a href="#"><img src="https://badges.pufler.dev/visits/marcorocheles/marcorocheles"></a>
 </p>    
     
