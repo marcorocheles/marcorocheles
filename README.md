@@ -8,6 +8,6 @@
 
 :books: I’m currently learning everything and I won't stop! In 2022 I hope I can find a new job. :)
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ocean_dark)
 
 
