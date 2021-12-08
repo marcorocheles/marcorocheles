@@ -1,7 +1,7 @@
 ![26172161_1589142947819109_6030700035158253643_o](https://user-images.githubusercontent.com/81653024/145266816-4e84b26e-3e57-4b96-adcb-d21024637c01.jpg)
 
 <p align='center'>
-  ## Hi! :wave: I'm Marco Rocheles!
+  Hi! :wave: I'm Marco Rocheles!
 </p>
 
 <p align='center'>
@@ -23,6 +23,8 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=marcorocheles&show_icons=true&count_private=true&theme=ocean_dark" width="350"></a>
 </p>
 
+<br />
+<br />
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
