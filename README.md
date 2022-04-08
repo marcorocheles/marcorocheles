@@ -9,7 +9,7 @@
 <br/>
 
 <p align='center'>
-  :computer: I'm Java Fullstack Developer from São Paulo - Brazil.
+  :computer: I'm Frontend internship in Marlin Internet.
 </p>
 <br/>
 
