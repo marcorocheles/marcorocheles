@@ -31,7 +31,7 @@
 
 <br />
 <p align='center'>
-  💻 My workspace<br/><br/>
+  💻 Minha configuração:<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src=https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
@@ -40,7 +40,7 @@
 
 <br/>
 <p align='center'>
-  Thank you to visit my profile. See ya! 👋<br/><br/>
+  Obrigado por visitar meu perfil. See ya! 👋<br/><br/>
   <a href="#"><img src="https://badges.pufler.dev/visits/marcorocheles/marcorocheles"></a>
 </p>    
     
